@@ -11,6 +11,7 @@ git clone https://github.com/rywin/OpenGL-Hello.git --recursive
 mkdir build
 cd build
 cmake ..
+make
 ```
 
 Run the executable:
